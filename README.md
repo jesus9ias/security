@@ -3,7 +3,7 @@ Security code snippets about encryption methods and hashing techniques.
 
 ##Bip 38
 
-Simple example using the Bip38 algorithm for encrypting cryptocurrency private keys.
+Simple example using the Bip38 standard proccess for encrypting cryptocurrency private keys.
 
 **Requirements**
 
